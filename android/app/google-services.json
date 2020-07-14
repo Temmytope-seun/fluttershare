@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510936313570",
+    "firebase_url": "https://fluttershare-8ffd8.firebaseio.com",
+    "project_id": "fluttershare-8ffd8",
+    "storage_bucket": "fluttershare-8ffd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510936313570:android:6ae9152fe857130cfb78bb",
+        "android_client_info": {
+          "package_name": "com.temitope.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510936313570-volpttvjk04iscampljdirfu2ogtnmqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneETtg7xxq_Z-XeQ63OkWXkuy5sCbFLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510936313570-volpttvjk04iscampljdirfu2ogtnmqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
